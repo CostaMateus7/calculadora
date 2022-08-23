@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  background-color: rgb(58, 56, 56);
+}
+
+#conteiner{
+  border: solid 1px black;
+  width: 250px;
+  height: 380px;
+  display: flex;
+  flex-direction: column;
+  
+}
+#botoes{
+  background-color: rgb(158, 148, 148);
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+  /* box-sizing: border-box; */
+}
+.button{
+  margin-inline: 3px;
+  display:inline-block;
+  margin-bottom: 5px;
+  color: white;
+  background-color: black;
+  border-radius: 50%;
+  width: 21%;
+  height: 18%;
+}
+
+#resultados{
+  background-color: #fff;
+  overflow-wrap:break-word;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  min-height: 100px;
+  max-height: 100px;
+  text-align: right;
+}

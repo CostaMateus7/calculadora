@@ -48,7 +48,7 @@ body{
   transform: scale(0.92);
 }
 
-#resultados, #contas{
+#resultados, #contas, #sinal{
   background-color: #fff;
   overflow-wrap:break-word;
   padding-right: 5px;
@@ -67,5 +67,5 @@ body{
 }
 footer{
   position: absolute;
-  bottom: 10%;
+  bottom: 5%;
 }

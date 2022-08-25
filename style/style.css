@@ -58,7 +58,7 @@ body{
   text-align: right;
 }
 #resultados{
-  font-size: 20px;
+  font-size: 30px;
   color: gray;
 }
 #contas{
@@ -88,5 +88,15 @@ footer{
   }
   h1{
     display: none;
+  }
+  #resultados, #contas{
+    min-height: 90px;
+    max-height: 90px;
+  }
+  #resultados {
+    font-size: 40px;
+  }
+  #contas {
+    font-size: 65px;
   }
 }

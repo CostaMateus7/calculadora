@@ -1,9 +1,9 @@
 # calculadora
 
-Calculadora pronta para uso com as operações básicas em funcionamento
+Calculadora pronta para uso, com as operações básicas em funcionamento.
 
 
-Com esse projeto pude treinar CSS e JS 
+Com esse projeto pude aprimoraro o CSS e JS 
 
 **CSS**
 - Flexbox;
@@ -21,6 +21,6 @@ Com esse projeto pude treinar CSS e JS
 - Boolean; 
 - Includes;
 - Substrings;
-- Eval (Propriedade que eu ainda não tinha conhecimento e que ajudou muito nesse projeto em específico)
+- Eval (Propriedade que eu ainda não tinha conhecimento e que ajudou muito nesse projeto em específico).
 
 **Além disso, aos poucos sinto que meu código vem melhorando.** 

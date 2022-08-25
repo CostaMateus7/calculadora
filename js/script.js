@@ -81,6 +81,7 @@ sinal.forEach((botao)=>{
       contas.innerHTML = ''
       sinais.innerHTML = sinalizar
     }
+
     // Quando inicia
     else{
       resultados.innerHTML = contas.innerHTML

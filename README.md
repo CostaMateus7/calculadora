@@ -1,4 +1,4 @@
-# calculadora
+**calculadora**
 
 Calculadora pronta para uso, com as operações básicas em funcionamento.
 
@@ -24,4 +24,4 @@ Com esse projeto pude aprimoraro o CSS e JS
 - Substrings;
 - Eval (Propriedade que eu ainda não tinha conhecimento e que ajudou muito nesse projeto em específico).
 
-**Além disso, aos poucos sinto que meu código vem melhorando.** 
+- Para mais projetos básicos como este: [Clique aqui](https://costamateus7.github.io/portifolio/)
